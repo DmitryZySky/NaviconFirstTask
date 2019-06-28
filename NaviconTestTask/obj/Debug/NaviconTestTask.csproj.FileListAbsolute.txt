@@ -1,0 +1,11 @@
+C:\Users\DVBer\source\repos\NaviconTestTask\NaviconTestTask\bin\Debug\NaviconTestTask.exe.config
+C:\Users\DVBer\source\repos\NaviconTestTask\NaviconTestTask\bin\Debug\NaviconTestTask.exe
+C:\Users\DVBer\source\repos\NaviconTestTask\NaviconTestTask\bin\Debug\NaviconTestTask.pdb
+C:\Users\DVBer\source\repos\NaviconTestTask\NaviconTestTask\bin\Debug\HtmlAgilityPack.dll
+C:\Users\DVBer\source\repos\NaviconTestTask\NaviconTestTask\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\DVBer\source\repos\NaviconTestTask\NaviconTestTask\bin\Debug\HtmlAgilityPack.xml
+C:\Users\DVBer\source\repos\NaviconTestTask\NaviconTestTask\obj\Debug\NaviconTestTask.csprojAssemblyReference.cache
+C:\Users\DVBer\source\repos\NaviconTestTask\NaviconTestTask\obj\Debug\NaviconTestTask.csproj.CoreCompileInputs.cache
+C:\Users\DVBer\source\repos\NaviconTestTask\NaviconTestTask\obj\Debug\NaviconTestTask.csproj.CopyComplete
+C:\Users\DVBer\source\repos\NaviconTestTask\NaviconTestTask\obj\Debug\NaviconTestTask.exe
+C:\Users\DVBer\source\repos\NaviconTestTask\NaviconTestTask\obj\Debug\NaviconTestTask.pdb
